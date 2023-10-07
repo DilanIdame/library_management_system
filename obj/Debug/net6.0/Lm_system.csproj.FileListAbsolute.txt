@@ -1,0 +1,14 @@
+E:\CS_grp\Lm_system\Lm_system\bin\Debug\net6.0\Lm_system.exe
+E:\CS_grp\Lm_system\Lm_system\bin\Debug\net6.0\Lm_system.deps.json
+E:\CS_grp\Lm_system\Lm_system\bin\Debug\net6.0\Lm_system.runtimeconfig.json
+E:\CS_grp\Lm_system\Lm_system\bin\Debug\net6.0\Lm_system.dll
+E:\CS_grp\Lm_system\Lm_system\bin\Debug\net6.0\Lm_system.pdb
+E:\CS_grp\Lm_system\Lm_system\obj\Debug\net6.0\Lm_system.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_grp\Lm_system\Lm_system\obj\Debug\net6.0\Lm_system.AssemblyInfoInputs.cache
+E:\CS_grp\Lm_system\Lm_system\obj\Debug\net6.0\Lm_system.AssemblyInfo.cs
+E:\CS_grp\Lm_system\Lm_system\obj\Debug\net6.0\Lm_system.csproj.CoreCompileInputs.cache
+E:\CS_grp\Lm_system\Lm_system\obj\Debug\net6.0\Lm_system.dll
+E:\CS_grp\Lm_system\Lm_system\obj\Debug\net6.0\refint\Lm_system.dll
+E:\CS_grp\Lm_system\Lm_system\obj\Debug\net6.0\Lm_system.pdb
+E:\CS_grp\Lm_system\Lm_system\obj\Debug\net6.0\Lm_system.genruntimeconfig.cache
+E:\CS_grp\Lm_system\Lm_system\obj\Debug\net6.0\ref\Lm_system.dll
