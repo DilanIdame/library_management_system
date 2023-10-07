@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CS_grp\\Lm_system\\Lm_system\\Lm_system.csproj": {}
+    "e:\\CS_grp\\Lm_system\\Lm_system\\Lm_system.csproj": {}
   },
   "projects": {
-    "E:\\CS_grp\\Lm_system\\Lm_system\\Lm_system.csproj": {
+    "e:\\CS_grp\\Lm_system\\Lm_system\\Lm_system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CS_grp\\Lm_system\\Lm_system\\Lm_system.csproj",
+        "projectUniqueName": "e:\\CS_grp\\Lm_system\\Lm_system\\Lm_system.csproj",
         "projectName": "Lm_system",
-        "projectPath": "E:\\CS_grp\\Lm_system\\Lm_system\\Lm_system.csproj",
+        "projectPath": "e:\\CS_grp\\Lm_system\\Lm_system\\Lm_system.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\CS_grp\\Lm_system\\Lm_system\\obj\\",
+        "outputPath": "e:\\CS_grp\\Lm_system\\Lm_system\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
